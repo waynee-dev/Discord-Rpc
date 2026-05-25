@@ -3,8 +3,8 @@ import json
 import time
 import threading
 
-TOKEN = "ACCOUNT TOKEN"
-APP_ID = "APPLICATION ID"
+TOKEN = "ACCOUNT TOKEN" # Your Discord Account Token
+APP_ID = "APPLICATION ID" # Bot Application ID
 APP_NAME = "APPLICATION NAME"
 
 LARGE_IMAGE = ""
