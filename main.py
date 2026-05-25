@@ -20,7 +20,7 @@ def make_activity():
     act = {
         "name": APP_NAME,
         "application_id": APP_ID,
-        "type": 3,
+        "type": 3, # 0 playing, 2 listening, 3 watching, 5 competing
         "timestamps": {"start": START_TIME}
     }
 
